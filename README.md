@@ -1,2 +1,2 @@
 # LED-Lamp-with-different-modes
-Do you have a glass or plastic container which you've never used? I got a new idea what you can do with it!  I made a lamp! it's so easy to make, you don't need a soldering iron, assembling process takes less than 5 minuets.
+One's a time I got an useless glass container. Also I got a RGB led strip. Is it not a good reason to make something useful. I decided to make LED lamp with different modes. If you afraid of darkness, LED lamp with different modes can help you or your child fall asleep. LED lamp can be stylish decision. For example: if you have no RGB lamp with different modes, but you have an RGB LED strip, you can easily assemble LED Lamp out of a plastic container. The power of every led will plusing with each other.
