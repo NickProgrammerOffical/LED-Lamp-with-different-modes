@@ -1,2 +1,3 @@
 # LED-Lamp-with-different-modes
 One's a time I got an useless glass container. Also I got a RGB led strip. Is it not a good reason to make something useful. I decided to make LED lamp with different modes. If you afraid of darkness, LED lamp with different modes can help you or your child fall asleep. LED lamp can be stylish decision. For example: if you have no RGB lamp with different modes, but you have an RGB LED strip, you can easily assemble LED Lamp out of a plastic container. The power of every led will plusing with each other.
+![F226EF5LL56680A](https://github.com/NickProgrammerOffical/LED-Lamp-with-different-modes/assets/138391799/2b696bb4-b914-446f-97b0-5192c671843c)
